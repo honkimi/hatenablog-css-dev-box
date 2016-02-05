@@ -7,6 +7,10 @@
 - node.js
 - npm
 
+# 最新に反映(任意)
+https://github.com/hatena/Hatena-Blog-Themes/tree/master/boilerplate
+
+ここの`less`ディレクトリと `boilerplate.less` をここにコピペして更新
 
 # セットアップ
 
