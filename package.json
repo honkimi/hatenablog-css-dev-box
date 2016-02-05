@@ -1,0 +1,17 @@
+{
+  "name": "hatenablog css dev box",
+  "version": "0.0.1",
+  "description": "HatenaBlog theme which based on boilerplate.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "honkimi",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.1",
+    "grunt-contrib-less": "~0.7.0"
+  }
+}
